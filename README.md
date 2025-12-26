@@ -70,6 +70,7 @@ After each game session, the player is asked:
 
 Do you want to play again? Y/N?
 Type Y to restart or N to exit.
+___
+## 🎥 Demo Video 
+ - [Watch on LinkedIn](https://www.linkedin.com/posts/bassant-fathy-575582388_%D9%84%D8%B9%D8%A8%D8%A9-%D8%AD%D8%AC%D8%B1%D8%A9-%D9%88%D8%B1%D9%82%D8%A9-%D9%85%D9%82%D8%B5-%D8%A8%D9%84%D8%BA%D8%A9-c-%D8%A8%D8%B3-%D9%85%D8%B4-activity-7382107318638911488-hIge?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF97FKkBIYwEpy0feW2XgwBRrZ2baraYufs)
 
-📄 File Info
-Game-stone-paper-scissors.cpp: Main source file, contains the entire game logic.
